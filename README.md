@@ -42,6 +42,7 @@ create table salary_log(log_id NUMBER, empid NUMBER,empname VARCHAR(10),old_sala
  16  /
 ```
 ### Output:
-
+![](5.1.png)
+![](5.2.png)
 ### Result:
 Hence procedure has been created using PL/SQL.
