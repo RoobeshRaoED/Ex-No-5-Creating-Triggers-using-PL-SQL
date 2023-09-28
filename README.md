@@ -45,4 +45,4 @@ create table salary_log(log_id NUMBER, empid NUMBER,empname VARCHAR(10),old_sala
 ![](5.1.png)
 ![](5.2.jpeg)
 ## Result:
-Hence procedure has been created using PL/SQL.
+Hence trigger has been created using PL/SQL.
